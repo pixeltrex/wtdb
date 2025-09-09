@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "wtdb",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9034a182-6d01-491d-9d05-626c14bfb6fa",
+      "database_name": "wtdb"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
